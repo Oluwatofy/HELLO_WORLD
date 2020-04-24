@@ -1,2 +1,2 @@
 # HELLO_WORLD
-First Respository on Git
+First Repository on Git
