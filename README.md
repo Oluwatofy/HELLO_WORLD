@@ -1,2 +1,2 @@
 # HELLO_WORLD
-First code on Git
+First Respository on Git
